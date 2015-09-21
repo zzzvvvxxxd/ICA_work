@@ -71,3 +71,7 @@ Github上全世界学者共同维护的资源
 ###神经网络
 博主强大，整理透彻了神经网络。
 [CNBLOG地址](http://www.cnblogs.com/shouhuxianjian/)
+
+###Jason's blog
+很好的机器学习博客
+[地址](http://jasonding1354.github.io)
