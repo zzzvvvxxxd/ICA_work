@@ -28,6 +28,12 @@
 
 ###cs229
 这是斯坦福的课程主页，Ng课程的真正精华——各种讲义，还有学生的期末作业都可以在这里下载到。
+百度cs299即可~~
+
+###CNN\RNN\LSTM课程
+看牛津大学的Nando de Freitas教授的deep learning课程
+配合着 Torch7 编程探讨了CNN，RNN还有LSTM，非常非常棒
+[地址](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 
 ----
 
