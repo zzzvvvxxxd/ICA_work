@@ -75,3 +75,11 @@ Github上全世界学者共同维护的资源
 ###Jason's blog
 很好的机器学习博客
 [地址](http://jasonding1354.github.io)
+
+
+# Machine Learning Book
+开源或者pdf版本的书籍
+
+###统计学习理论最好的开源书
+作者Percy Liang
+[地址](http://web.stanford.edu/class/cs229t/notes.pdf)
