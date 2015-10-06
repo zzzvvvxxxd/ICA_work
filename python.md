@@ -13,6 +13,12 @@
 * scikit-learn
 * nltk
 
+###【NumPy基础】100道numpy练习
+【NumPy基础】100道numpy练习——初学与入门篇
+【NumPy基础】100道numpy练习——Apprentice篇
+【NumPy基础】100道numpy练习——进阶篇
+[地址](http://blog.csdn.net/u012162613/article/category/2746855)
+
 ###Python for Machine Learning & DL
 awesome系列
 [Github](https://github.com/szwed/awesome-machine-learning-python)

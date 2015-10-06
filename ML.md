@@ -89,3 +89,9 @@ Github上全世界学者共同维护的资源
 ###统计学习理论最好的开源书
 作者Percy Liang
 [地址](http://web.stanford.edu/class/cs229t/notes.pdf)
+
+###【NumPy基础】100道numpy练习
+【NumPy基础】100道numpy练习——初学与入门篇
+【NumPy基础】100道numpy练习——Apprentice篇
+【NumPy基础】100道numpy练习——进阶篇
+[地址](http://blog.csdn.net/u012162613/article/category/2746855)
