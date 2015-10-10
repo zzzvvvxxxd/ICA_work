@@ -35,6 +35,11 @@
 配合着 Torch7 编程探讨了CNN，RNN还有LSTM，非常非常棒
 [地址](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 
+###UC Berkeley CS188 Intro to AI  
+课程名称涉及AI，其实还是偏重现在的机器学习应用  
+有讲义有视频  
+[课程](https://www.cs.berkeley.edu/~russell/classes/cs188/f14/lecture_videos.html)   
+
 ----
 
 ###awesome-machine-learning
