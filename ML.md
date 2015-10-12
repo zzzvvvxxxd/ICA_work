@@ -6,10 +6,6 @@
 [地址](https://www.coursera.org)
 拥抱Coursera，拥抱未来。
 
-###
-
-
-
 ##Andrew Ng
 很多人推崇Andrew Ng的课程，那么列出他的两个公开课地址。两者随意选择一门即可。
 两个版本的区别：
@@ -84,6 +80,7 @@ Github上全世界学者共同维护的资源
 
 
 # Machine Learning Book
+-----
 开源或者pdf版本的书籍
 
 ###统计学习理论最好的开源书
