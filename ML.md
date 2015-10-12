@@ -90,8 +90,18 @@ Github上全世界学者共同维护的资源
 作者Percy Liang
 [地址](http://web.stanford.edu/class/cs229t/notes.pdf)
 
+
+# Coding
+
+----
+
 ###【NumPy基础】100道numpy练习
 【NumPy基础】100道numpy练习——初学与入门篇
 【NumPy基础】100道numpy练习——Apprentice篇
 【NumPy基础】100道numpy练习——进阶篇
 [地址](http://blog.csdn.net/u012162613/article/category/2746855)
+
+###mloss
+机器学习工具汇总哪家强
+这个网站搜集了非常多的机器学习包，几乎涵盖了你听过的所有语言。
+[地址](http://mloss.org)
