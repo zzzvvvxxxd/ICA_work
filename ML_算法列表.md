@@ -1,5 +1,9 @@
 #ML算法列表
-粗略版
+
+##详细版
+[http://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1](http://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1)
+
+##粗略版
 
 ###Regression(回归分析)
 
