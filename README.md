@@ -7,7 +7,7 @@
 
 #索引：
 
-## 工程相关
+## > 工程相关
 [精选文章](https://github.com/zzzvvvxxxd/ICA_work/blob/master/%E6%96%87%E7%AB%A0.md)
 
 [编程](https://github.com/zzzvvvxxxd/ICA_work/blob/master/program.md)
@@ -23,7 +23,7 @@
 > 包括一些博客、网站和教程
 
 
-## 机器学习&文本相关：
+## > 机器学习&文本相关：
 [机器学习](https://github.com/zzzvvvxxxd/ICA_work/blob/master/ML.md)
 
 [主题模型](https://github.com/zzzvvvxxxd/ICA_work/blob/master/TopicModel.md)
