@@ -15,11 +15,15 @@
 
 [Python相关](https://github.com/zzzvvvxxxd/ICA_work/blob/master/python.md)
 
+[C++相关](https://github.com/zzzvvvxxxd/ICA_work/blob/master/cpp.md)
+
 [博客收藏](https://github.com/zzzvvvxxxd/ICA_work/blob/master/JustBLOG.md)
 
 [算法&刷题](https://github.com/zzzvvvxxxd/ICA_work/blob/master/BasicAlgorithm.md)
 
 [前端](https://github.com/zzzvvvxxxd/ICA_work/blob/master/%E5%89%8D%E7%AB%AF.md)
+
+[github集锦](https://github.com/zzzvvvxxxd/ICA_work/blob/master/gitpro.md)
 > 包括一些博客、网站和教程
 
 
