@@ -1,7 +1,6 @@
 #BLOGs
 
-###Jerry's Blog
-[??](http://jerrypeng.me/)
+##优秀程序员博客
 
-###??'s Blog
-[??](http://www.itdiffer.com/)
+
+[Jerry's Blog](http://jerrypeng.me/)
