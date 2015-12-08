@@ -10,6 +10,10 @@
 ## > 工程相关
 [精选文章](https://github.com/zzzvvvxxxd/ICA_work/blob/master/%E6%96%87%E7%AB%A0.md)
 
+[大杂烩：大数据、中间件、服务器、异步什么都有](https://github.com/zzzvvvxxxd/ICA_work/blob/master/Server_DistSys.md)
+
+----
+
 [编程](https://github.com/zzzvvvxxxd/ICA_work/blob/master/program.md)
 > 编程通用资源
 [Java相关](https://github.com/zzzvvvxxxd/ICA_work/blob/master/java.md)
