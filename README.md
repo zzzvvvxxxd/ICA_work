@@ -45,4 +45,11 @@
 
 ----
 
+##镜像：
+[HUST](http://mirrors.hust.edu.cn/)
+> Qt,Cygwin,Linux等镜像
+
+
+
 小i组  @ecnu 2015
+
