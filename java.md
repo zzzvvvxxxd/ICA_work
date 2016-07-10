@@ -2,7 +2,13 @@
 
 ## 基础
 * [Java Concurrency/Multithreading Tutorial —— 强烈推荐](tutorials.jenkov.com/java-concurrency/index.html)
+* [Java8 新特性探究 (gitbook)]
+## Spring
+[开涛 跟我学spring3 系列 (gitbook)](https://wizardforcel.gitbooks.io/gen-wo-xue-spring/content/0.html)
+[开涛 跟我学springMVC 系列 (gitbook)](https://wizardforcel.gitbooks.io/gen-wo-xue-spring/content/51.html)
 
+## Web
+* [用Jersey构建RESTful服务 (gitbook)](https://www.gitbook.com/book/wizardforcel/rest-service-with-jersey/details)
 
 ##Json
 [fastjson](https://github.com/alibaba/fastjson)
