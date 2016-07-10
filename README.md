@@ -25,6 +25,8 @@
 
 [大数据、中间件、服务器、异步](https://github.com/zzzvvvxxxd/ICA_work/blob/master/Server_DistSys.md)
 
+[数据库 (mysql为主)](https://github.com/zzzvvvxxxd/really_useful_mirror/blob/master/database.md)
+
 ----
 
 [编程](https://github.com/zzzvvvxxxd/ICA_work/blob/master/program.md)
@@ -35,7 +37,7 @@
 
 [C++相关](https://github.com/zzzvvvxxxd/ICA_work/blob/master/cpp.md)
 
-[Golang相关]()
+[Golang相关](https://github.com/zzzvvvxxxd/really_useful_mirror/blob/master/Golang.md)
 
 [博客收藏](https://github.com/zzzvvvxxxd/ICA_work/blob/master/JustBLOG.md)
 
