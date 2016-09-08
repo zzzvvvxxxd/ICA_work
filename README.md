@@ -9,6 +9,8 @@
 
 ## > 资源收集
 
+[博客收藏](https://github.com/zzzvvvxxxd/ICA_work/blob/master/JustBLOG.md)
+
 #### 电子书
 
 [explore Gitbook](https://www.gitbook.com/explore)
