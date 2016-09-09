@@ -1,5 +1,5 @@
 
-#Python 
+#Python
 
 ----
 
@@ -52,9 +52,22 @@ multipledispatch和toolz的作者Matthew Rocklin的github主页，有很多pytho
 
 ###小明明s Github
 董明伟的Github.io，作者是python高级编程视频的作者，看过之后收获非常大
-他的博客中详细介绍了Python的设计模式，非常非常屌
-http://dongweiming.github.io/archives.html
+他的博客中详细介绍了Python的设计模式，非常非常好
+http://dongweiming.github.io/archives.html   
+[@董伟明](http://www.dongwm.com/blog/archives/)   
+> 知乎专栏 [Python之美](https://zhuanlan.zhihu.com/python-cn)   
 
 ###很多python的总结
 值得拜读，但这个人是个vim用户，这点需要警惕
 http://wklken.me/archives.html
+
+
+### Python china
+[python china](http://python-china.org/)
+
+### 廖雪峰
+算是初学者必备的了：  
+[廖雪峰](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+
+### Keakon
+[Keakon's blog](https://www.keakon.net/category/Python)
