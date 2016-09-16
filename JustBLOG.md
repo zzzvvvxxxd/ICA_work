@@ -18,13 +18,13 @@
 [廖雪峰](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 
 ## JAVA专题
-[花名有孚](http://it.deepinmind.com/index.html)
-[花钱的年华](http://calvin1978.blogcn.com/)
-[庄周梦蝶](http://blog.fnil.net/)
-[占小狼](http://www.jianshu.com/users/90ab66c248e6/latest_articles)
-
-[Brian's Blog](http://brianway.github.io/archive/)
-> 有详细的MyBatis和SpringMVC学习笔记
+[花名有孚](http://it.deepinmind.com/index.html)  
+[花钱的年华](http://calvin1978.blogcn.com/)  
+[庄周梦蝶](http://blog.fnil.net/)  
+[占小狼](http://www.jianshu.com/users/90ab66c248e6/latest_articles)  
+[waylau](http://waylau.com/archive/)  
+[Brian's Blog](http://brianway.github.io/archive/)  
+> 有详细的MyBatis和SpringMVC学习笔记  
 
 
 ## 并发or分布式
