@@ -19,3 +19,10 @@
 
 [gson](https://github.com/google/gson)
 Google的json处理框架
+
+-----
+
+## Blog
+[Brian's Blog](http://brianway.github.io/archive/)
+> 有详细的MyBatis和SpringMVC学习笔记
+

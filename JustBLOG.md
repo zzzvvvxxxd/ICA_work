@@ -23,6 +23,10 @@
 [庄周梦蝶](http://blog.fnil.net/)
 [占小狼](http://www.jianshu.com/users/90ab66c248e6/latest_articles)
 
+[Brian's Blog](http://brianway.github.io/archive/)
+> 有详细的MyBatis和SpringMVC学习笔记
+
+
 ## 并发or分布式
 [庄周梦蝶](http://blog.fnil.net/)
 [漫漫路 (C++/并发)](http://www.lanindex.com/)
@@ -32,3 +36,4 @@
 ## 算法
 [skywang12345](http://www.cnblogs.com/skywang12345/p/3603935.html)
 [Hawstein](http://www.hawstein.com/)
+
